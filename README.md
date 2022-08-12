@@ -1,1 +1,1 @@
-# Unsupervised-ML-on-Country-Data-for-Dev-Aid-Funding-Allocation
+# Unsupervised Machine Learning on Country Data for Dev Aid Funding Allocation
